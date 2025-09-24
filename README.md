@@ -1,7 +1,6 @@
-# 🎬 IMDb Sentiment Classification (AI/ML Recruitment Task)
+# 🎬 IMDb Sentiment Classification
 
-## 📌 Project Overview
-This project was developed as part of the **AIML Recruitment Task**.  
+## 📌 Project Overview 
 The goal is to build a simple machine learning model that can classify movie reviews as **positive** or **negative** based on a IMDb movie review dataset.
 
 The dataset consists of two columns:
@@ -54,7 +53,7 @@ The dataset consists of two columns:
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone [<your-repo-link>](https://github.com/ratchanar2025/IMDb-Sentiment-Analysis.git)
+   git clone https://github.com/ratchanar2025/IMDb-Sentiment-Analysis.git
    cd imdb-sentiment
 
 2. Install dependencies:
@@ -70,15 +69,15 @@ The dataset consists of two columns:
 
 ## 📦 Dependencies
 <ul>
-<li>Python 3.8</li>
-<li>pandas<\li>
-<li>numpy<\li>
-<li>scikit-learn<\li>
-<li>nltk<\li>
-<li>matplotlib<\li>
-<li>seaborn<\li>
-<li>wordcloud<\li>
-<li>(Install using pip install -r requirements.txt)<\li>
+<li>Python 3.8
+<li>pandas
+<li>numpy
+<li>scikit-learn
+<li>nltk
+<li>matplotlib
+<li>seaborn
+<li>wordcloud
+<li>(Install using pip install -r requirements.txt)
 <\ul>
 ---
 
