@@ -68,21 +68,21 @@ The dataset consists of two columns:
 
 ---
 
-##📦 Dependencies
-
-Python 3.8+
-pandas
-numpy
-scikit-learn
-nltk
-matplotlib
-seaborn
-wordcloud
-(Install using pip install -r requirements.txt)
-
+## 📦 Dependencies
+<ul>
+<li>Python 3.8</li>
+<li>pandas<\li>
+<li>numpy<\li>
+<li>scikit-learn<\li>
+<li>nltk<\li>
+<li>matplotlib<\li>
+<li>seaborn<\li>
+<li>wordcloud<\li>
+<li>(Install using pip install -r requirements.txt)<\li>
+<\ul>
 ---
 
-##📜 References
+##  📜 References
 
 https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 
