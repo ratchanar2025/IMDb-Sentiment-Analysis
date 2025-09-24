@@ -78,7 +78,7 @@ The dataset consists of two columns:
 <li>seaborn
 <li>wordcloud
 <li>(Install using pip install -r requirements.txt)
-<\ul>
+
 ---
 
 ##  📜 References
